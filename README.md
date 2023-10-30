@@ -2,7 +2,7 @@
 
 **I'm Ethan**, a software developer and product designer from the United States.
 
-I'm currently building [@getstake](https://github.com/getstake), and A.I. investment assistant.
+I'm currently building [@getstake](https://github.com/getstake), an A.I. investment agent platform.
 
 You can see my full portfolio @ [ethanchiasson.com](https://ethanchiasson.com)
 
